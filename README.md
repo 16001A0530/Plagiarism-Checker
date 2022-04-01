@@ -16,7 +16,7 @@
 
 1. `pip install -r requirements.txt`
 
-2. `$env:FLASK_APP = "hello"`
+2. `$env:FLASK_APP = "PlagiarismChecker"`
 
 3. `$env:FLASK_DEBUG=1`
 
@@ -26,7 +26,7 @@
 
 1. `pip install -r requirements.txt`
 
-2. `set FLASK_APP=hello`
+2. `set FLASK_APP=PlagiarismChecker`
 
 3. `set FLASK_DEBUG=1`
 
